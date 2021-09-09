@@ -1,3 +1,17 @@
+
+# Project Details - Gradient Chooser
+2 Main Components (background, options)
+
+Background
+1. Needs api from unsplash
+2. Additional Details: User can change image by search or upload
+
+Options
+1.Hosts sliders and truthy/falsy values
+2. Data will interact with Background component
+3. Additonal: User can copy the necessar code for gradient.  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
